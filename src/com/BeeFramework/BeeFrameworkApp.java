@@ -51,7 +51,7 @@ import android.widget.ImageView;
 import com.BeeFramework.Utils.CustomExceptionHandler;
 import com.BeeFramework.activity.DebugCancelDialogActivity;
 import com.BeeFramework.activity.DebugTabActivity;
-import com.BeeFramework.example.R;
+import com.yuefenxiang.R;
 import com.BeeFramework.view.BeeInjector;
 import com.external.activeandroid.app.Application;
 import com.nostra13.universalimageloader.cache.disc.naming.Md5FileNameGenerator;

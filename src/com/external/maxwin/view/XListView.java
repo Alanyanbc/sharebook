@@ -10,7 +10,7 @@ import android.view.ViewTreeObserver.OnGlobalLayoutListener;
 import android.view.animation.DecelerateInterpolator;
 import android.widget.*;
 import android.widget.AbsListView.OnScrollListener;
-import com.BeeFramework.example.R;
+import com.yuefenxiang.R;
 
 import java.util.Date;
 

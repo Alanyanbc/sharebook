@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.BeeFramework.example.R;
+import com.yuefenxiang.R;
 
 public class ToastView {
 	

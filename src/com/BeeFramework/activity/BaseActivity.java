@@ -41,7 +41,7 @@ import android.os.Message;
 import com.BeeFramework.BeeFrameworkApp;
 import com.BeeFramework.model.ActivityManagerModel;
 import com.BeeFramework.model.BusinessMessage;
-import com.BeeFramework.example.R;
+import com.yuefenxiang.R;
 
 import org.json.JSONException;
 

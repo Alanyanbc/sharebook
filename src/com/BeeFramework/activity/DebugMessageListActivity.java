@@ -38,7 +38,7 @@ import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
 import android.widget.TextView;
-import com.BeeFramework.example.R;
+import com.yuefenxiang.R;
 import com.BeeFramework.adapter.DebugListAdapter;
 import com.BeeFramework.model.DebugMessageModel;
 

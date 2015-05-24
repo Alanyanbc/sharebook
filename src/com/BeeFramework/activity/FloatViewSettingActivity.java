@@ -8,7 +8,7 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.TextView;
-import com.BeeFramework.example.R;
+import com.yuefenxiang.R;
 import com.BeeFramework.model.BeeCallback;
 
 public class FloatViewSettingActivity extends BaseActivity {

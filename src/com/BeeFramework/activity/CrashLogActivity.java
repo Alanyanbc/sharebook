@@ -12,7 +12,7 @@ import com.BeeFramework.AppConst;
 import com.BeeFramework.adapter.CrashLogAdapter;
 import com.BeeFramework.protocol.CrashMessage;
 import com.external.maxwin.view.XListView;
-import com.BeeFramework.example.R;
+import com.yuefenxiang.R;
 import org.apache.http.util.EncodingUtils;
 
 import java.io.File;

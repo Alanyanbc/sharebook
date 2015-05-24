@@ -43,7 +43,7 @@ import android.widget.Toast;
 import com.BeeFramework.AppConst;
 import com.BeeFramework.BeeFrameworkApp;
 import com.BeeFramework.Utils.CustomExceptionHandler;
-import com.BeeFramework.example.R;
+import com.yuefenxiang.R;
 import com.BeeFramework.model.BeeQuery;
 import com.BeeFramework.theme.ThemeManager;
 import com.baidu.android.pushservice.PushConstants;

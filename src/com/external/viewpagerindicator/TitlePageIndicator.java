@@ -32,7 +32,7 @@ import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewConfiguration;
-import com.BeeFramework.example.R;
+import com.yuefenxiang.R;
 
 import java.util.ArrayList;
 

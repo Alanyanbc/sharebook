@@ -21,7 +21,7 @@ import android.view.WindowManager.LayoutParams;
 import android.widget.ImageView;
 import android.widget.TextView;
 import com.BeeFramework.BeeFrameworkApp;
-import com.BeeFramework.example.R;
+import com.yuefenxiang.R;
 import com.BeeFramework.Utils.LinuxUtils;
 import com.BeeFramework.model.BeeCallback;
 

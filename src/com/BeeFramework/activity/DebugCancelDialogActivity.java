@@ -7,7 +7,7 @@ import android.os.Message;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.TextView;
-import com.BeeFramework.example.R;
+import com.yuefenxiang.R;
 
 public class DebugCancelDialogActivity extends Activity {
 

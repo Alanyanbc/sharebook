@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.BeeFramework.example.R;
+import com.yuefenxiang.R;
 
 public class MyProgressDialog {
 	

@@ -5,7 +5,7 @@ import android.graphics.Color;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
-import com.BeeFramework.example.R;
+import com.yuefenxiang.R;
 import com.BeeFramework.adapter.ActivitylifeCycleAdapter;
 import com.BeeFramework.model.ActivityManagerModel;
 import com.external.maxwin.view.XListView;

@@ -15,7 +15,7 @@ import android.text.format.Formatter;
 import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
-import com.BeeFramework.example.R;
+import com.yuefenxiang.R;
 import com.BeeFramework.model.BeeCallback;
 
 import java.util.ArrayList;

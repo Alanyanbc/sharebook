@@ -1,11 +1,12 @@
 package com.insthub.yuefenxiang.model;
 
+import com.BeeFramework.model.BaseModel;
 import com.insthub.yuefenxiang.protocal.STATUS;
 
 import android.content.Context;
 import android.content.SharedPreferences;
 
-public class LoginModel extends Object{
+public class LoginModel extends BaseModel{
 	private SharedPreferences shared;
 	private SharedPreferences.Editor edit;
 	public STATUS mStatus;

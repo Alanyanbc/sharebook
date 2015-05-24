@@ -3,7 +3,7 @@ package com.BeeFramework.activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.TextView;
-import com.BeeFramework.example.R;
+import com.yuefenxiang.R;
 import com.BeeFramework.model.DebugMessageModel;
 
 /*

@@ -4,7 +4,7 @@ import android.content.Context;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
-import com.BeeFramework.example.R;
+import com.yuefenxiang.R;
 import com.BeeFramework.activity.BaseActivity;
 
 import java.util.ArrayList;

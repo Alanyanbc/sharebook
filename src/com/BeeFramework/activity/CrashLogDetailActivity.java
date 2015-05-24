@@ -2,7 +2,7 @@ package com.BeeFramework.activity;
 
 import android.os.Bundle;
 import android.widget.TextView;
-import com.BeeFramework.example.R;
+import com.yuefenxiang.R;
 
 /*
  *	 ______    ______    ______

@@ -14,8 +14,6 @@
     <string name="register_confirm">Re-type password</string>
 
 
-    <string name="app_name">BeeExample</string>
-
     <!-- XListView -->
     <string name="xlistview_header_hint_normal">下拉刷新</string>
     <string name="xlistview_header_hint_ready">松开刷新数据</string>

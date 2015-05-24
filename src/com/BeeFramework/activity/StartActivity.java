@@ -39,7 +39,7 @@ import android.view.View;
 import android.view.animation.AlphaAnimation;
 import android.view.animation.Animation;
 import android.view.animation.Animation.AnimationListener;
-import com.BeeFramework.example.R;
+import com.yuefenxiang.R;
 
 public class StartActivity extends Activity {
     private Context context;

@@ -43,7 +43,7 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.ImageView;
 import android.widget.TextView;
-import com.BeeFramework.example.R;
+import com.yuefenxiang.R;
 
 public class WebViewActivity extends Activity{
 

@@ -11,7 +11,7 @@ import android.widget.RadioGroup.OnCheckedChangeListener;
 import android.widget.TabHost;
 import android.widget.TabHost.TabSpec;
 
-import com.BeeFramework.example.R;
+ import com.yuefenxiang.R;
 
 /*
  *	 ______    ______    ______

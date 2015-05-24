@@ -28,7 +28,7 @@ import com.external.HorizontalVariableListView.utils.DataSetObserverExtended;
 import com.external.HorizontalVariableListView.utils.ReflectionUtils;
 import com.external.HorizontalVariableListView.utils.ReflectionUtils.ReflectionException;
 import com.external.HorizontalVariableListView.widget.IFlingRunnable.FlingRunnableView;
-import com.BeeFramework.example.R;
+import com.yuefenxiang.R;
 
 import java.lang.ref.WeakReference;
 import java.util.*;

@@ -10,7 +10,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.BeeFramework.example.R;
+import com.yuefenxiang.R;
 
 public class XListViewFooter extends LinearLayout {
 	public final static int STATE_NORMAL = 0;

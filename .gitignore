@@ -1,4 +1,5 @@
 
+
 #Android generated
 bin
 gen
@@ -39,3 +40,13 @@ tmp
 /build
 /out
 
+*.class
+bin
+gen
+out
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.svn
